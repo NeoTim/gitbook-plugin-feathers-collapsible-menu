@@ -8,19 +8,22 @@
     {
       "name": "Rahul Bansal",
       "email": "rahul.bansal@rtcamp.com"
+    }, {
+      "name": "David Luecke",
+      "email": "daff@neyeon.com"
     }
   ],
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu",
+  "homepage": "https://github.com/daffl/gitbook-plugin-feathers-collapsible-menu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu.git"
+    "url": "https://github.com/daffl/gitbook-plugin-feathers-collapsible-menu.git"
   },
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/rtCamp/gitbook-plugin-collapsible-menu/issues"
+    "url": "https://github.com/daffl/gitbook-plugin-feathers-collapsible-menu/issues"
   },
   "keywords": [
     "gitbook",
