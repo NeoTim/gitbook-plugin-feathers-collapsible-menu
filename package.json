@@ -2,13 +2,14 @@
   "name": "gitbook-plugin-feathers-collapsible-menu",
   "description": "GitBook Plugin to change sidebar menu's to collapsible menu. For gitbook with many pages, navigating long menus can get irritating.",
   "main": "index.js",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "author": "rtCamp <admin@rtcamp.com>",
   "contributors": [
     {
       "name": "Rahul Bansal",
       "email": "rahul.bansal@rtcamp.com"
-    }, {
+    },
+    {
       "name": "David Luecke",
       "email": "daff@neyeon.com"
     }
