@@ -1,6 +1,7 @@
 require(["gitbook"], function(gitbook) {
     gitbook.events.bind("page.change", function() {
       $('ul.summary > li > ul').hide();
+      $('ul.summary > li[data-level="1.2"] > ul > li:not(.active) li').hide();
       $('ul.summary li li.active').parents().children(':not(script)').show();
       $('ul.summary li.active > ul').show();
       $('.page-headings').remove();
